@@ -162,7 +162,7 @@ while wait() and doTrivia do
             skipping = false
         end
         
-        timeLeft = 20
+        timeLeft = 50
         
         query = getQuestion()[1]
         
